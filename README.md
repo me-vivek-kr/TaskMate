@@ -11,9 +11,11 @@ A simple and elegant task management app built with Flutter. This app allows use
 ## Screenshots
 
 <p align="center">
-  <img src="assets/images/Screenshot_20250513_193707.png" alt="Home Screen" width="300"/>
+  <img src="assets/images/Screenshot0.png" alt="Spash Screen" width="300"/>
   &nbsp;&nbsp;
-  <img src="assets/images/Screenshot_20250513_193759.png" alt="Add Task Dialog" width="300"/>
+  <img src="assets/images/Screenshot1.png" alt="Home Screen" width="300"/>
+  &nbsp;&nbsp;
+  <img src="assets/images/Screenshot2.png" alt="Add Task Dialog" width="300"/>
 </p>
 
 ---
