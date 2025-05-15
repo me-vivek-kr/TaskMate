@@ -1,6 +1,23 @@
 # TaskMate
 
+<p align="center">
+  <img src="assets/images/logo.png" alt="TaskMate Logo" width="150"/>
+</p>
+
 A simple and elegant task management app built with Flutter. This app allows users to manage their daily tasks efficiently by adding, updating, and deleting tasks. It also provides a progress graph to track completed and pending tasks.
+
+---
+
+## Screenshots
+
+<p align="center">
+  <img src="assets/images/Screenshot_20250513_193707.png" alt="Home Screen" width="300"/>
+  &nbsp;&nbsp;
+  <img src="assets/images/Screenshot_20250513_193759.png" alt="Add Task Dialog" width="300"/>
+</p>
+
+---
+
 
 ## Features
 
